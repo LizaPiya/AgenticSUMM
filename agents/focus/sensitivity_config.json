@@ -1,0 +1,10 @@
+{
+  "seed": 42,
+  "n_generation_notes": 100,
+  "rhos_generation": [0.1, 0.3, 0.5, 0.7, 0.9],
+  "layers_generation": [0, 4, 8, 12, 16, 20, 24, 27],
+  "layer_rhos": [0.3, 0.7],
+  "random_seeds": [0, 1, 2],
+  "judge_max_source_tokens": 7000,
+  "judge_max_new_tokens": 40
+}

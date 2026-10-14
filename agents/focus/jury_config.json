@@ -1,0 +1,12 @@
+{
+  "judges": [
+    {"name": "llama3_8b", "hf_id": "meta-llama/Meta-Llama-3-8B-Instruct", "family": "llama", "min_free_gb": 24},
+    {"name": "qwen25_7b", "hf_id": "Qwen/Qwen2.5-7B-Instruct", "family": "qwen", "min_free_gb": 24},
+    {"name": "mistral_7b", "hf_id": "mistralai/Mistral-7B-Instruct-v0.3", "family": "mistral", "min_free_gb": 24},
+    {"name": "phi35_mini", "hf_id": "microsoft/Phi-3.5-mini-instruct", "family": "phi", "min_free_gb": 16}
+  ],
+  "core_families": ["phi"],
+  "max_source_tokens": 7000,
+  "max_new_tokens": 40,
+  "dimensions": ["hallucination", "factual", "complete", "coherent"],
+}

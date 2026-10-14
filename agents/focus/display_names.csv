@@ -1,0 +1,19 @@
+system,display_name
+llama32_3b,Llama-3.2-3B
+qwen25_3b,Qwen2.5-3B
+qwen25_1p5b,Qwen2.5-1.5B
+gemma3_1b,Gemma3-1B
+flan_t5_base,Flan-T5-Base
+mistral_7b,Mistral-7B
+medalpaca_7b,MedAlpaca-7B
+selfrefine,Self-Refine
+cove,CoVe
+reflexion,Reflexion
+agenticsum,AgenticSum
+agenticsum_c2_focus_draft,C2 +FOCUS
+agenticsum_c3_one_repair,C3 +FOCUS+Fix
+biobart_large,BioBART
+t5_large,T5-Large
+abl_aura,Semantic+AURA ablation: AURA only
+abl_semantic,Semantic only
+llama31_70b,Llama-3.1-70B
